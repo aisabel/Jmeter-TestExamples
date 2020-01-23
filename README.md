@@ -5,7 +5,10 @@
 Below a basic guide on how to install,run, architecture folder structure and useful resources.</p>
 
 <h2>Architecture folder structure</h2>
-<ul><li>Apache-jmeter-5.1.1 > bin > Test Plan - Introduction to the Basics </li>
+<ul>
+  <li>Examples > Contains the csv sample files </li>
+  <li>Test Plan - IntroductionTestExamples > Contains the actual tests excercises </li>
+  <li>SourcesOfKnowledge > Contains the key tips, cheatsheet, pdf guide with terms </li>
 </ul>
 
 <h2>Install</h2>
