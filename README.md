@@ -4,7 +4,7 @@
 <p align="justified">This repository contains practice scripts using Jmeter for performance testing.</br>
 Below a basic guide on how to install,run, architecture folder structure and useful resources.</p>
 
-<ul><h2>Architecture folder structure</h2>
+<h2>Architecture folder structure</h2>
 <ul><li>Apache-jmeter-5.1.1 > bin > Test Plan - Introduction to the Basics </li>
 </ul>
 
@@ -44,5 +44,5 @@ Below a basic guide on how to install,run, architecture folder structure and use
  <li><a href="https://jmeter.apache.org/usermanual/get-started.html">Apache Jmeter Foundation</a></li>
 <li><a href="https://academy.blazemeter.com/">BlazeMeter Academy</a></li>  
 <li><a href="https://www.blazemeter.com/university/">BlazeMeter University</a></li>
-</ul>
+
 
