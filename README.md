@@ -38,7 +38,7 @@ Below a basic guide on how to install,run, architecture folder structure and use
 <ol>-o output folder where to generate the report dashboard after load test. Folder must not exist or be empty</ol>
     </li>
 </ul>
-
+    
 <h2>External references: </h2>
 <ul>
  <li><a href="https://jmeter.apache.org/usermanual/get-started.html">Apache Jmeter Foundation</a></li>
