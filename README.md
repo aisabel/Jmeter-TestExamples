@@ -44,7 +44,7 @@ Below a basic guide on how to install,run, architecture folder structure and use
     
 <h2>External references: </h2>
 <ul>
- <li><a href="https://jmeter.apache.org/usermanual/get-started.html">Apache Jmeter Foundation (manuals)</a></li>
+ <li><a href="https://jmeter.apache.org/usermanual/get-started.html">Apache Jmeter Foundation (User manuals)</a></li>
 <li><a href="https://academy.blazemeter.com/">BlazeMeter Academy</a></li>  
 <li><a href="https://www.blazemeter.com/university/">BlazeMeter University</a></li>
 
