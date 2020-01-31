@@ -47,4 +47,5 @@ Below a basic guide on how to install,run, architecture folder structure and use
  <li><a href="https://jmeter.apache.org/usermanual/get-started.html">Apache Jmeter Foundation (User manuals)</a></li>
 <li><a href="https://academy.blazemeter.com/">BlazeMeter Academy</a></li>  
 <li><a href="https://www.blazemeter.com/university/">BlazeMeter University</a></li>
+<li><a href="https://guide.blazemeter.com/hc/en-us/articles/206733689-Using-CSV-DATA-SET-CONFIG">BlazeMeter Documentation</a></li>
 
