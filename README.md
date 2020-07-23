@@ -6,6 +6,7 @@ Below a basic guide on how to install,run, architecture folder structure and use
 
 <h2>Architecture folder structure</h2>
 <ul>
+  <li>Google-JmeterExample >An example for a request to google and get performance results </li>
   <li>Examples > Contains the csv sample files </li>
   <li>Test Plan - IntroductionTestExamples > Contains the actual tests excercises </li>
   <li>SourcesOfKnowledge > Contains the key tips, cheatsheet, pdf guide with terms </li>
